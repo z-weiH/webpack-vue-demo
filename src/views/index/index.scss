@@ -1,0 +1,15 @@
+body{
+  div{
+    color: red;
+    border-radius: 50%;
+    border: 1px solid yellow;
+    transform:rotate(30deg);
+    transition: width 2s;
+  }
+}
+.icon{
+  width: 1em; height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
